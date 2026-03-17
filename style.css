@@ -17,7 +17,7 @@ body{
 }
 
 :root{
-    --cor-destaque:#1c0b9b;
+    --cor-destaque:#1aa945;
 }
 
 /*Marca */
@@ -46,7 +46,7 @@ font-weight: bold;
 /*header */
 
 #header{
-    background-image: linear-gradient(to right ,#4d13d1 , #59abe3);
+    background-image: linear-gradient(to right ,#1e3124 , #0c2a0f);
     padding: 50px 10px 30px 30px ;
     color: white;
 }
